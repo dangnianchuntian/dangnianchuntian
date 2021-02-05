@@ -8,9 +8,13 @@
 
 - 个人博客：[https://zhanghan.xin](https://zhanghan.xin)
 - 个人微信：<a href="https://imgkr.cn-bj.ufileos.com/8e7581a1-4b25-4371-adf4-a2de2b9b2c30.jpg">zhanghan-dangnian(点我扫码，欢迎交流，指导！)</a>
-- 微信公众号&小程序: 
+- 微信公众号: 
 
-  <img width="300" src="https://imgkr.cn-bj.ufileos.com/7698f3db-9f07-492f-a08d-616a1f7d0b32.png"/>
+  <img width="300" src="https://img-blog.csdnimg.cn/20190919111406910.jpg"/>
+
+- 小程序: 
+
+  <img width="300" src="https://img-blog.csdnimg.cn/20190919111149738.jpg"/>
 
 ## 相关认证
 - 阿里巴巴技能认证证书
