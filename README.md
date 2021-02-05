@@ -21,7 +21,7 @@
 ## 相关认证
 - 阿里巴巴技能认证证书
 
-  <img width="20%" src="https://img-blog.csdnimg.cn/20181028154114515.jpg"/>
+  <img src="https://img-blog.csdnimg.cn/20181028154114515.jpg"/>
 
 - CSDN荣誉证书
 
