@@ -1,6 +1,6 @@
 ## 关于我
 
-- 🤔人工智能推荐 [http://www.captainbed.net/zhanghan](http://www.captainbed.net/zhanghan)
+- 🤔人工智能推荐 [http://www.captainai.net/zhanghan](http://www.captainai.net/zhanghan)
 
 - 👷CSDN『通往精英的成长之路』博主:[https://zhanghan.blog.csdn.net](https://zhanghan.blog.csdn.net)。
 
